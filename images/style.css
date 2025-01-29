@@ -1,0 +1,14 @@
+body {
+    background-image: url('images/background.jpg');
+    /* 画像のパス */
+    background-size: cover;
+    /* 画面いっぱいに表示 */
+    background-position: center;
+    /* 中央に配置 */
+    background-repeat: no-repeat;
+    /* 繰り返しなし */
+    height: 100vh;
+    /* ビューポートの高さを基準に表示 */
+    margin: 0;
+    /* 余白をなくす */
+}
